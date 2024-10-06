@@ -1,0 +1,6 @@
+div{
+    background-color: cadetblue;
+    display: flex;   
+    justify-content: center; 
+    list-style: none;
+}
